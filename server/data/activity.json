@@ -1,0 +1,58 @@
+{
+  "name": "活动列表",
+  "list": [{
+    "categoryId": 1,
+    "name": "寿星齐相聚 温暖夕阳红",
+    "imagePath": "blob:http://localhost:9988/a56efee2-0010-4472-9c3a-edcde855d188",
+    "startDate": "2017-12-24T16:00:00.000Z",
+    "locationName": "beijingbeijingbeijing"
+  }, {
+    "categoryId": 2,
+    "name": "人间四月芳菲尽",
+    "imagePath": "blob:http://localhost:9988/a56efee2-0010-4472-9c3a-edcde855d188",
+    "startDate": "2017-12-12T00:00:00.000Z",
+    "locationName": ""
+  }, {
+    "categoryId": 3,
+    "name": "山寺桃花始盛开",
+    "imagePath": "blob:http://localhost:9988/6033cd1d-e51c-49b4-8089-fc09a53df1fe",
+    "startDate": "2017-12-06T11:08:17.647Z",
+    "endDate": "2017-12-12T00:00:00.000Z",
+    "locationName": "河北省秦皇岛市青龙满族自治县"
+  }, {
+    "categoryId": 4,
+    "name": "昨夜星辰昨夜风",
+    "imagePath": "blob:http://localhost:9988/e1dca529-9bc7-49c2-ae5e-14f1974d2113",
+    "startDate": "2017-12-06T12:09:36.866Z",
+    "endDate": "2017-12-12T00:00:00.000Z",
+    "locationName": "河北省秦皇岛市青龙满族自治县"
+  }, {
+    "categoryId": 5,
+    "name": "画楼西畔桂堂东 ",
+    "imagePath": "blob:http://localhost:9988/effe0e0a-7e27-4bc4-9304-c55538348297",
+    "startDate": "2017-12-06T12:13:58.164Z",
+    "endDate": "2017-12-12T00:00:00.000Z",
+    "locationName": "天津市天津市河西区"
+  }, {
+    "categoryId": 6,
+    "name": "身无彩凤双飞翼",
+    "imagePath": "blob:http://localhost:9988/f0eefbef-8ba1-4e07-89d0-c71bb79c3bf2",
+    "startDate": "2017-12-06T12:15:12.925Z",
+    "endDate": "2017-12-12T00:00:00.000Z",
+    "locationName": "河北省唐山市路北区"
+  }, {
+    "categoryId": 7,
+    "name": "防静电所肩负的交付给京东方            ",
+    "imagePath": "blob:http://localhost:9988/a85900db-939e-4c4c-87b2-887b920c6cce",
+    "startDate": "2017-12-08T03:44:13.883Z",
+    "endDate": "2017-12-12T00:00:00.000Z",
+    "locationName": "北京市北京市宣武区"
+  }, {
+    "categoryId": 8,
+    "name": "浮华纵逝去梦中梦",
+    "imagePath": "blob:http://localhost:9988/13d5c4e7-31d5-4330-bedc-67211413d662",
+    "startDate": "2017-12-18T16:00:00.000Z",
+    "endDate": "2017-12-19T16:00:00.000Z",
+    "locationName": "河北省邯郸市邯郸县"
+  }]
+}

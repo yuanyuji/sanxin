@@ -1,0 +1,18 @@
+.tac.el-row {
+  background: #29282e;
+  width: 279px;
+  height: 1218px;
+}
+
+div.el-upload.el-upload--picture-card {
+  width: 1046px !important;
+}
+
+.el-badge__content.is-fixed {
+  top: 14px;
+  right: 18px;
+}
+
+.el-menu {
+  border-right-width: 0;
+}

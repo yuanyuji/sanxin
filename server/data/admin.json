@@ -1,0 +1,36 @@
+{
+  "table_name": "账号注册",
+  "list": [{
+    "users_registry": "尚玉娟",
+    "pwds_registry": "12306",
+    "authorization": "admin"
+  }, {
+    "users_registry": "立方",
+    "pwds_registry": "12306qqqq",
+    "authorization": "visor"
+  }, {
+    "users_registry": "尚玉娟",
+    "pwds_registry": "960928",
+    "authorization": "admin"
+  }, {
+    "users_registry": "wangtong",
+    "pwds_registry": "11111",
+    "authorization": "visor"
+  }, {
+    "users_registry": "ssss",
+    "pwds_registry": "ssss",
+    "authorization": "admin"
+  }, {
+    "users_registry": "lisan",
+    "pwds_registry": "iiii",
+    "authorization": "visor"
+  }, {
+    "users_registry": "ss",
+    "pwds_registry": "sss",
+    "authorization": "visor"
+  }, {
+    "users_registry": "zz",
+    "pwds_registry": "zz",
+    "authorization": "visor"
+  }]
+}
